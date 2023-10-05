@@ -1,0 +1,45 @@
+[
+  {
+    "Question": "About",
+    "A": "Об",
+    "B": "Тогда",
+    "C": "Никогда",
+    "D": "кольцо",
+    "CorrectAnswer": "A"
+  },{
+    "Question": "Then",
+    "A": "когда",
+    "B": "тогда",
+    "C": "этот",
+    "D": "тот",
+    "CorrectAnswer": "B"
+  },{
+    "Question": "666*0 = ?",
+    "A": "667",
+    "B": "777",
+    "C": "0",
+    "D": "1",
+    "CorrectAnswer": "C"
+  },{
+    "Question": "6*6 = ?",
+    "A": "25",
+    "B": "56",
+    "C": "66",
+    "D": "36",
+    "CorrectAnswer": "D"
+  },{
+    "Question": "9/0=?",
+    "A": "2",
+    "B": "1",
+    "C": "9",
+    "D": "Can't divide'",
+    "CorrectAnswer": "D"
+  },{
+    "Question": "Always",
+    "A": "Ночь",
+    "B": "Кольцо",
+    "C": "Всегда",
+    "D": "Иногда",
+    "CorrectAnswer": "C"
+  }
+]
